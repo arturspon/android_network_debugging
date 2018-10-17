@@ -26,7 +26,7 @@ echo.
 echo 1) Enable USB debugging in Developer Options in your device settings.
 echo 2) Plug your device in your PC and click Accept in the dialog that will appear in your phone.
 echo 3) Place this program inside the folder that contains adb.exe, usually in C:\Users\YOUR_USER\AppData\Local\Android\Sdk\platform-tools
-echo 3) Run this program.
+echo 4) Run this program.
 echo.
 echo Press any key to go back to menu...
 pause >nul
